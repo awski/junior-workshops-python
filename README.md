@@ -1,2 +1,2 @@
-# junior-workshops-python
-hello world
+# junior-workshops-Python
+hello world in PYTHON
